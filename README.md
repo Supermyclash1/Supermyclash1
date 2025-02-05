@@ -2,7 +2,6 @@
 
 I'm always willing to collaborate on interesting projects! If you're working on something cool or need help with C# development, feel free to reach out.
 
-![Header]()
 
 ## درباره من
 
