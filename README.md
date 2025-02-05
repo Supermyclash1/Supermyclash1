@@ -14,7 +14,7 @@ I'm always willing to collaborate on interesting projects! If you're working on 
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 
-  <a href="https://discord.com/invite/TYMy3FGaUp">
+  <a href="https://discord.com/invite/hrZPN7kTPr">
     <img src="https://img.shields.io/badge/Join%20my%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Join my Discord" />
   </a>
 </div>
